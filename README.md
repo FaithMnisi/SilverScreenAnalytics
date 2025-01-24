@@ -1,4 +1,4 @@
-# SilverScreenAnalytics🎬 
+# SilverScreenAnalytics 🎬 
 
 ## Overview  
 **SilverScreenAnalytics** is a project focused on analyzing a comprehensive movie dataset to explore patterns, trends, and relationships within the data. The aim was to uncover meaningful insights and conduct exploratory analysis on various aspects of the movies included in the dataset.  
